@@ -4,7 +4,7 @@
 Analyzing the data and generate insights that could help Netflix in deciding which type of shows/movies to produce and how they can grow the business in different countries
 
 ## 📝 Project Report
-- You can access the complete project python file here - [Python] (https://colab.research.google.com/drive/1qn1iFyKMC2dDhA8EkaOebRIv2uhE-I76?usp=sharing)
+- You can access the complete project python file here - [Python](https://github.com/nikhilsree5/NetflixCaseStudy/blob/main/Netflix_business_case.ipynb)
 - You can access the complete project in pdf format here - [Report](https://github.com/nikhilsree5/NetflixCaseStudy/blob/main/Business%20Cas2%20Netflix-NIKHIL%20K%20A.pdf)
 
 ## 📚 About Data
